@@ -1,0 +1,11 @@
+5
+Lily
+5.3
+Apple
+3.1
+Lime
+7.2
+Grape
+8.6
+Lemon
+4.5
